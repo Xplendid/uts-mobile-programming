@@ -1,8 +1,1 @@
-# AplikasiMenuPesan
-# MenuPesan
-# AplikasiMenuPesan
-# AplikasiMenuPesan
-# MenuPesan
-# MenuPesan
-# MenuPesan
-# MenuPesan
+#Dikerjakan bersama demi menyelesaikan tugas uts
